@@ -11,4 +11,4 @@ Remember to modify the path to the dataset before running the test and training 
 
 ## 🙏 Acknowledgment 
 
-Our project is based on **[WPFormer](https: //github.com/yfhdm/WPFormer)**, and we are very grateful for their excellent work. Their contributions laid the foundation for the development of our query-based defect detection technology.
+Our project is based on **[WPFormer](https://github.com/yfhdm/WPFormer)**, and we are very grateful for their excellent work. Their contributions laid the foundation for the development of our query-based defect detection technology.
